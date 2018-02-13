@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Devis Brico Dépôt",
-    "currentPage": "DevisToulonSurAllier.html",
+    "currentPage": "Videos12min.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1240,54 +1240,6 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Séquence 6_4_Bouquet",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Séquence 6_4_Bouquet",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Séquence 6_4_Bouquet",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Séquence 6_4_Bouquet",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Séquence 6_4_Bouquet",
                 "active": true
               }
             ]
@@ -2029,7 +1981,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Séquence 6_4_Bouquet",
-                "active": false
+                "active": true
               }
             ]
           }
